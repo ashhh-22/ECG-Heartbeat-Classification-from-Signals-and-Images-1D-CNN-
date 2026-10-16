@@ -92,5 +92,3 @@ Patient-wise splits, training on real labelled ECG images (2D CNN), multi-lead i
 - Kachuee M, Fazeli S, Sarrafzadeh M. ECG Heartbeat Classification: A Deep Transferable Representation. IEEE ICHI, 2018.
 - Kaggle "ECG Heartbeat Categorization Dataset" and PhysioNet.
 
-## License
-Add a license of your choice (for example MIT) as `LICENSE`.
