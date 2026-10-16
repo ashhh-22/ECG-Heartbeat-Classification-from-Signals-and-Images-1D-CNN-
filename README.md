@@ -7,7 +7,7 @@ heartbeats, and classify them. Built with TensorFlow/Keras.
 > **Research prototype. Not a medical device and not for diagnosis.**
 
 ## Highlights
-- Residual **1D CNN** (about 180k parameters), trained with class weights and early stopping on **balanced accuracy**.
+- Residual **1D CNN** (194,050 parameters), trained with class weights and early stopping on **balanced accuracy**.
 - **Image-to-beat digitiser**: finds lead strips, reads the paper grid to get real time scale, follows the trace, cuts beats like the training data.
 - **Image round-trip training**: training beats are drawn as images (different grids, resolutions, JPEG quality), read back with the real digitiser, and added to training.
 - EDA, cleaning, evaluation (confusion matrix, ROC, validation-selected threshold) and CSV/image prediction scripts.
